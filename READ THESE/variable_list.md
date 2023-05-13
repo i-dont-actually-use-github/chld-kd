@@ -25,4 +25,6 @@ Tokelau (Value=0)
 
 Radio (Value=0)
 
+Weekly (Value=0)
+
 NOTE: Do NOT change the value of blacklist above 0, as it will result in everyone (including yourself) blacklisted from using the bot.
